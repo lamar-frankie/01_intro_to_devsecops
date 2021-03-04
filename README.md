@@ -15,7 +15,7 @@ To complete this assignment:
 
 4. Switch to the branch you created.
 
-3. Open the problem set file in a text editor or ide.
+3. Open the problem set markdoen file in a text editor or ide.
 
 4. Research and answer the questions.
 
