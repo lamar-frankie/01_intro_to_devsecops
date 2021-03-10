@@ -1,5 +1,8 @@
 Question 1: In your opinion what are the 3 most important factors of a 12 factor app?
-
+            
+            a)Codebase
+            b)Dependencies
+            c)Build, release , run.
 
 
 
@@ -7,7 +10,7 @@ Question 1: In your opinion what are the 3 most important factors of a 12 factor
 
 Question 2: Restate the Core Values of DevSecOps in your own words?
 
-
+        - Everyone is responsibe in devsecops scenario. No security can be ignored in the application development lifecycle.
 
 
 
@@ -15,8 +18,10 @@ Question 2: Restate the Core Values of DevSecOps in your own words?
 
 Question 3: Which of the 3 ways of DevSecOps do you think is the most difficult to implement? Explain why?
 
-
-
+      -Developer knowledge gap
+      -Lack of AppSec tool integration.
+      -Pipeline friction and developer overload.
+      
 
 
 
